@@ -1,6 +1,6 @@
 # Neptune Design System
 
-Neptune is the design system developed by TransferWise. It is a collection of reusable [components](/components), guided by clear [patterns](/patterns), that can be assembled together to build any number of human interfaces. Neptune can allow teams to iterate faster, create more consistent user experiences, and strengthen a product's brand. 
+Neptune is the design system developed by TransferWise. It is a collection of reusable [components](/components), guided by clear patterns, that can be assembled together to build any number of human interfaces. Neptune can allow teams to iterate faster, create more consistent user experiences, and strengthen a product's brand. 
 
 ## Implementations
 
