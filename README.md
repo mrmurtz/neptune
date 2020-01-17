@@ -2,6 +2,8 @@
 
 Neptune is the design system developed by TransferWise. It is a collection of reusable [components](/components), guided by clear patterns, that can be assembled together to build any number of human interfaces. Neptune can allow teams to iterate faster, create more consistent user experiences, and strengthen a product's brand. 
 
+> ⚠️ Under heavy development, expect content and structure to change.
+
 ## Implementations
 
 Neptune is still in early development but we are currently building support for [Android](https://github.com/transferwise/neptune-android), [iOS](https://github.com/transferwise/neptune-ios) and [Web](https://github.com/transferwise/neptune-web).
