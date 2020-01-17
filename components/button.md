@@ -1,4 +1,4 @@
-# Buttons
+# Button
 
 Buttons allow users to take an action whether it's a tap or a click.
 
