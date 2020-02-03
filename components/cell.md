@@ -16,7 +16,7 @@ The main action may also be a toggle (checkbox or radio), in which case tapping 
 
 ### Typography
 
-We use distinct text styles to associate the groups of information together. The styles should be based on the hierarchy of information, and their distinction shouldn't be based only on position or colour as these don't convey hierarchy strongly enough.
+We use distinct text styles to associate groups of information together. The styles should be based on the hierarchy of information, and their distinction shouldn't be based only on position or colour as these don't convey hierarchy strongly enough.
 
 ### Size
 
